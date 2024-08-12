@@ -36,13 +36,13 @@ This is a simple Vue.js application that provides basic user authentication feat
    ```
 2. Navigate to the project directory:
   ```bash
-  cd vueauth-starter
+   cd vueauth-starter
   ```
 3. Install the dependencies:
    ```bash
    npm install
    ```
-4. Running the App:
+4. Running the App: \\
    To start the development server, run:
    ```bash
    npm run serve
@@ -50,8 +50,8 @@ This is a simple Vue.js application that provides basic user authentication feat
    The application will be available at http://localhost:8080.
 
 ### Project Structure
-src/components/: Contains the Vue components for Login, Sign-Up, and Password Recovery views.
-src/router/: Configures the routes for the application.
-src/App.vue: The main application component.
-src/main.js: The entry point of the application, where the router is initialized.
+- src/components/: Contains the Vue components for Login, Sign-Up, and Password Recovery views.
+- src/router/: Configures the routes for the application.
+- src/App.vue: The main application component.
+- src/main.js: The entry point of the application, where the router is initialized.
 
