@@ -36,7 +36,7 @@ This is a simple Vue.js application that provides basic user authentication feat
    ```
 2. Navigate to the project directory:
   ```bash
-   cd vueauth-starter
+    cd vueauth-starter
   ```
 3. Install the dependencies:
    ```bash
