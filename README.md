@@ -42,7 +42,8 @@ This is a simple Vue.js application that provides basic user authentication feat
    ```bash
    npm install
    ```
-4. Running the App: \\
+4. Running the App:
+   
    To start the development server, run:
    ```bash
    npm run serve
